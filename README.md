@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋🏻 I'm Arya
+</h1>
 
-<!--
-**AryaAshouri/AryaAshouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  <a href="https://skillicons.dev">
+    These are some of my skills:
+  </a>
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,docker,fastapi,django,js,html,cssgit,nodejs,postmanqt,selenium,cpp,cs,c,express" />
+  </a>
+</p>
