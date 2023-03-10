@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,docker,fastapi,js,git,cpp,express" />
+    <img src="https://skillicons.dev/icons?i=python,bash,js,cpp" />
   </a>
 </p>
 <h3 align="center">
