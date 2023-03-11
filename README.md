@@ -11,3 +11,9 @@
     <img src="https://skillicons.dev/icons?i=docker,react,c,pytorch,django" /><br>
   </a>
 </p>
+<h3 align="center">
+    🔥 Currently I'm updating my website
+    🐍 Working on some python projects
+    💻 Learning new things of programming
+    ⚙️ Going to learn hardware programming
+</h3>
