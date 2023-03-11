@@ -3,27 +3,12 @@
 </h1>
 
 <h3 align="center">
-    Favorite languages:
+    These are some of my favorite skills:
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,bootstrap,cs" />
+    <img src="https://skillicons.dev/icons?i=django,postman,react" />
   </a>
 </p>
-<h3 align="center">
-    Favorite frameworks:
-</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express" />
-  </a>
-</p>
-<h3 align="center">
-    Favorite Tools:
-</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git" />
-  </a>
-</p>
-
