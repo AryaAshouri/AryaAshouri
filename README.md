@@ -12,7 +12,7 @@
   </a>
 </p>
 <h3 align="center">
-    🔥 Currently I'm updating my website<br><br>
+    <br><br>🔥 Currently I'm updating my website<br><br>
     🐍 Working on some python projects<br><br>
     💻 Learning new things of programming<br><br>
     ⚙️ Going to learn hardware programming<br><br>
