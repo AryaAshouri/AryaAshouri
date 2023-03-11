@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    These are some of my favorite skills:
+    🎯 These are some of my favorite skills:
 </h3>
 <p align="center">
   <a href="https://skillicons.dev">
