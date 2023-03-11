@@ -8,6 +8,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,git" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,react,c,bootstrap,django" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,react,c,pytorch,django" /><br>
   </a>
 </p>
