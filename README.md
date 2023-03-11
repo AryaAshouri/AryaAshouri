@@ -12,8 +12,8 @@
   </a>
 </p>
 <h3 align="center">
-    🔥 Currently I'm updating my website
-    🐍 Working on some python projects
-    💻 Learning new things of programming
-    ⚙️ Going to learn hardware programming
+    🔥 Currently I'm updating my website<br>
+    🐍 Working on some python projects<br>
+    💻 Learning new things of programming<br>
+    ⚙️ Going to learn hardware programming<br>
 </h3>
